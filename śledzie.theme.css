@@ -1,0 +1,83 @@
+/**
+* @name śledź
+* @version 1.7.7
+* @description This project owns Punisher#9083
+* @author Punisher
+* @authorId 964828677311455262
+* @invite BKqZ2nrRH2
+* @source
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/tranquil.css");
+@import url('https://fonts.googleapis.com/css2?family=Whitney');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url("https://clearvision.gitlab.io/v6/main.css");
+:root {
+--roundness: 50px;
+--main-color: hsla(256, 100%, 65%, 0.397);
+--hover-color: hsl(229, 100%, 68%);
+--home-color: rgb(255, 255, 255);
+--shadow: rgba(115, 112, 250, 0.455);
+--customFont: 'Whitney';
+--code-font: 'Consolas';
+--text-normal: #dcdddeff;
+--text-muted: rgb(99, 99, 99);
+--channels-width: 220px;
+--members-width: 240px;
+--background-shading: 100%;
+--background-overlay: #00000099;
+--background-image: url('https://i.imgur.com/etg78F0.png');
+--background-size: cover;
+--background-position: center;
+--background-repeat: no-repeat;
+--background-attachment: fixed;
+--background-brightness: 100%;
+--background-constrast: 100%;
+--background-saturation: 100%;
+--background-invert: 0%;
+--background-grayscale: 0%;
+--background-sepia: 0%;
+--background-blur: 0px;
+--home-icon: url('https://clearvision.gitlab.io/icons/discord.svg');
+--home-position: center;
+--home-size: 40px;
+--backdrop-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--backdrop-image: center;
+--backdrop-size: cover;
+--backdrop-repeat: repeat;
+--backdrop-attachment: fixed;
+--backdrop-brightness: 100%;
+--backdrop-constrast: 100%;
+--backdrop-saturation: 100%;
+--backdrop-invert: 0%;
+--backdrop-grayscale: 0%;
+--backdrop-sepia: 0%;
+--backdrop-blur: 0px;
+--user-popout-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-popout-image: center;
+--user-popout-size: cover;
+--user-popout-repeat: repeat;
+--user-popout-attachment: fixed;
+--user-popout-brightness: 100%;
+--user-popout-constrast: 100%;
+--user-popout-saturation: 100%;
+--user-popout-invert: 0%;
+--user-popout-grayscale: 0%;
+--user-popout-sepia: 0%;
+--user-popout-blur: 0px;
+--user-popout-overlay: #000000a6;
+--user-modal-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-modal-image: center;
+--user-modal-size: cover;
+--user-modal-repeat: repeat;
+--user-modal-attachment: fixed;
+--user-modal-brightness: 100%;
+--user-modal-constrast: 100%;
+--user-modal-saturation: 100%;
+--user-modal-invert: 0%;
+--user-modal-grayscale: 0%;
+--user-modal-sepia: 0%;
+--user-modal-blur: 0px;
+--bd-blue: #e62727;
+--bd-blue-hover: #b31e1e;
+--bd-blue-active: #b31e1e;
+}
